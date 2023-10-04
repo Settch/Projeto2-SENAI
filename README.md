@@ -1,2 +1,6 @@
-# Projeto2-SENAI
-Material do que eu fiz no segundo curso do SENAI
+# REST COUNTRIES API
+trabalho sobre API
+RESTCOUNTRIES
+arquivo json
+display grid
+filtragem de países
